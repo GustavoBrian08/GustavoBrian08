@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=180&section=header&text=Gustavo+Brian&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=180&section=header&text=Gustavo+Brian+Bandeira&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gustavo+Brian;I'm+26+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -13,8 +13,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GustavoBrian08&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
 
 
 
